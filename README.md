@@ -1,2 +1,2 @@
 # Healthy-Recipes
-Codecademy Project
+Personal Project
